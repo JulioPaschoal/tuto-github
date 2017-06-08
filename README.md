@@ -8,8 +8,8 @@ Introdução ao git / github
 
 **Fonte**: [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
 
-![Github](img/Github.png =300x)
-![GitLab](img/gitlab.png =300x)
+![Github](img/Github.png | width=300)
+![GitLab](img/gitlab.png | width=300)
 
 # Configurando o git
 

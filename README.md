@@ -8,8 +8,8 @@ Introdução ao git / github
 
 **Fonte**: [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
 
-![Github](img/Github.png)
-![GitLab](img/gitlab.png)
+![Github](img/Github.png =300x)
+![GitLab](img/gitlab.png =300x)
 
 # Configurando o git
 
@@ -65,6 +65,6 @@ git status
 
 # Fazendo a primeira Branch
 
-# Fazendo o Merge Request
+# Fazendo o Pull Request
 
 # Utilizando o Fork

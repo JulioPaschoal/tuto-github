@@ -63,7 +63,16 @@ git status
 
 # Fazendo o pull do projeto atual
 
+```
+git pull origin master
+```
+
 # Fazendo a primeira Branch
+
+```
+git checkout -b NOME_BRANCH
+git merge master
+```
 
 # Fazendo o Pull Request
 
